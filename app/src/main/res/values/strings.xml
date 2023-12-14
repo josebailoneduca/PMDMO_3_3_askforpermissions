@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ask For Permission</string>
+    <string name="msg_explicacion">Es necesario que des permiso para acceder a tus contactos para que la app funcione correctamente</string>
+    <string name="aviso">Aviso</string>
+    <string name="msg_explicacion_manual">La aplicación necesita permisos para acceder a tus contactos. Elegiste no ser preguntado más por el permiso. Puedes activar el permiso en la configuración de tu telefono para que la aplicación funcione</string>
+</resources>
